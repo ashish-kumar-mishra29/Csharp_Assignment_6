@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\bin\Debug\net8.0\Assignment_6.exe
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\bin\Debug\net8.0\Assignment_6.deps.json
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\bin\Debug\net8.0\Assignment_6.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\bin\Debug\net8.0\Assignment_6.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\bin\Debug\net8.0\Assignment_6.pdb
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\refint\Assignment_6.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.pdb
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\Assignment_6.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignment_6\Assignment_6\obj\Debug\net8.0\ref\Assignment_6.dll
